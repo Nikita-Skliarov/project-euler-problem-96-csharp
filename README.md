@@ -34,3 +34,5 @@ This is a Sudoku Solver application developed using ASP.NET. It solves a 9x9 Sud
    ```bash
    git clone https://github.com/your-username/sudoku-solver.git
    cd sudoku-solver
+
+2. Open solution file and run it.
